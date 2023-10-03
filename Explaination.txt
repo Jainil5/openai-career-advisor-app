@@ -1,0 +1,3 @@
+I have made an API using flask ofr developing a career advisor by OpenAI API.
+I have used gpt3.5-turbo for this task.
+I have used prompt engineering in such a way that will be benificial for sending prompt to open AI api.
