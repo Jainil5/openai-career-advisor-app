@@ -1,5 +1,8 @@
 # openai-career-advisor-app
 
+### About:
+- Career advising chatbot that helps with career-related advice and suggestions. Developed using Open AI API.
+
 ### Functionalities:
 
 - You need to input the subject, interest, and question related to it with your request and you will get an AI-generated response.
