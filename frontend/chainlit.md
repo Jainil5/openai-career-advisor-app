@@ -5,4 +5,3 @@
 ### This is a career advising chatbot.
 
 * Example:
-![Example](../example.png)
