@@ -1,7 +1,9 @@
-# WELCOME! 🚀🤖
+# * WELCOME to the CAREER-ADVISING-CHATBOT! 🚀🤖
 
-## Hi there, Chatbot is ready to assist you.
+### - This chatbot helps with career-related advice and suggestions.
 
-### This is a career advising chatbot.
+### - Works for everyone trying to enter any choice of career.
 
-* Example:
+# * Ask your question below. 
+
+### - For example: I want to go in the field of computer science.
