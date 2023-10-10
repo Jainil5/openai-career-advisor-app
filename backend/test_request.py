@@ -1,12 +1,9 @@
 import requests
 
-subject = input("\nEnter any subject of your choice: ")
-interest = input("\nEnter any interest of your subject: ")
+
 input = input("\nQuestion: ")
 
 data = {
-    "subject": subject,
-    "interest":interest,
     "input":input
 }
 
