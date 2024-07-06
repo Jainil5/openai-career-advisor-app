@@ -1,8 +1,8 @@
 # CAREER ADVISING CHATBOT
 
 ### ABOUT:
-- Career advising chatbot that helps with career-related advice and suggestions. Developed using Open AI API.
-
+- Fine-tuned LLM for CAREER ADVISING. Developed using Open AI API.
+- Can be used by freshers to get top-notch briefs for their bright career start.
 ### SCREENSHOTS
 
 - HOME PAGE:
